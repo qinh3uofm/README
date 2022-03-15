@@ -91,3 +91,5 @@ details
   - Hat tip to anyone whose code is used
   - Inspiration
   - etc
+
+##  File manifest
