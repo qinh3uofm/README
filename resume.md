@@ -5,7 +5,7 @@ Hao Qin
 Email: qinh3@myumanitoba.ca
 
 phone#:2048918538
--------------------     ----------------------------
+
 
 Education
 ---------
