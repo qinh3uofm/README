@@ -1,4 +1,3 @@
-The basics
 # Hosting online resume using Etter’s Modern Technical Writing principles
 
 
