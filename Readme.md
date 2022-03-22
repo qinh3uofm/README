@@ -1,4 +1,4 @@
-# Hosting resume using GitHub page
+#How to Host resume online
 
 ## Purpose: 
 
