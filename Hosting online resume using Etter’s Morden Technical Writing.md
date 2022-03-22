@@ -1,4 +1,4 @@
-# Hosting online resume using Etter’s Modern Technical Writing principles
+# Hosting online resume using Etter's Modern Technical Writing principles
 
 
 ## Purpose: 
@@ -17,7 +17,7 @@ You can find my resume [here](https://github.com/qinh3uofm/qinh3uofm.github.io/e
 ---------------------------------------------
 
 
-## How I write my resume using Etter’s protocol:
+## How I write my resume using Etter's protocol:
 
 ### 1.Don't Write 
 As technical writers, we need to know the goal of our audiences and spend most of our time finding the best way to achieve it. Telling audiences how to achieve their goals should take less than 10% of our time in the process of "Writing". When writing my resume, I spend most of my time getting information about the company I am interested in and the requirement of the specific job I apply to. After I get a broad idea of what kind of information the employees want to see on my resume, I will modify my resume according to that.
@@ -29,7 +29,7 @@ To show audiences our appealing resume, we need to know what knowledge our audie
 By making my resume target specific jobs, I make sure all the information contained in it is what my audience wants to see.
 
 ### 4.Style
-In Etter’s book, he mentioned for a good technical writing style, writers should provide consistency of words, proper headers, images, and use inline style to offset important text. I use consistent words in my resume, every part of the resume has a unique header, and all of the important information is in bold.
+In Etter's book, he mentioned for a good technical writing style, writers should provide consistency of words, proper headers, images, and use inline style to offset important text. I use consistent words in my resume, every part of the resume has a unique header, and all of the important information is in bold.
 
 ### 5.Catalog the Diff
 Etter believes record changes to a product are one of the most important functions of a technical writer. Good change logs convince people to upgrade, inspire confidence in the direction of a product, and help developers take advantage of new features. Before I make changes to my resume, I create a new branch on my repository first, after I have down all the changes I merge the new branch to the main branch and commit it.
