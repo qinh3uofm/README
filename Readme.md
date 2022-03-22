@@ -13,7 +13,7 @@ Education
 2017-2022 (expected)
 :   **BSc, Computer Science**; University of Manitoba
 
-    *Interests: machine learning
+ 
 
 2015-2017
 :   **International college of manitoba**; University of Manitoba
