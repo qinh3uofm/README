@@ -11,7 +11,7 @@
 
 ## Prerequisites:
 
-You can find my resume [here](https://github.com/qinh3uofm/qinh3uofm.github.io/edit/main/resume.md).
+You can find my resume [here](https://qinh3uofm.github.io/Resume).
 
 ---------------------------------------------
 
