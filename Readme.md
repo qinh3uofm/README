@@ -11,8 +11,10 @@
 
 
 ## Prerequisites:
-
 You can find my resume [here](https://qinh3uofm.github.io/Resume).
+
+Here is a demo:
+![demo](https://github.com/qinh3uofm/qinh3uofm.github.io/blob/main/ezgif.com-gif-maker.gif)
 
 ---------------------------------------------
 
@@ -66,3 +68,5 @@ Markdown gets rid of complicated buttons of Microsoft word; more importantly, yo
 
 2. Why is my resume not showing up?
 It might take a few minutes for your resume to show up due to internet latency. If it still does not show up, you might want to check if you put your resume in the right repositories named 'yourusername'.github.io and make sure the resume is in the main branch as default. The resume needs to be an HTML or markdown file
+
+
