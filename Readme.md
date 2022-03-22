@@ -59,6 +59,11 @@ Publishing is very easy using Github Page, just commit your code then click comm
 
 - Author: Hao Qin
 - Author of Modern Technical Writing: Andrew Etter
+- Group members:
+   - Kyle Calinisan
+   - Scott Jodoin
+   - Tahmidul Zidaan
+   - Raven Carencia
 
 ---------------------------------------------
 
