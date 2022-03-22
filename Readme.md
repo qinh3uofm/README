@@ -1,7 +1,4 @@
-# Hosting online resume using Etter's Modern Technical Writing principles
-
-
-## Purpose: 
+# Purpose: 
 
 - Describe the practical steps of how to host and format my resume using Markdown, Visual studio code, GitHub Pages, and Jekyll.  
 
