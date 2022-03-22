@@ -23,18 +23,23 @@ Education
 Experience
 ----------
 
-**junior data analyst:**
+**junior data analyst(BYD):**
 - Collect data from sourse tables and store them in sql database.
 - Manage and maintain database.
 - Analyzes data using mysql.
 
 
-Technical Project Experience
+Project Experience
 --------------------
+_**sentiment analysis on WBS community regarding to GME stock**_
 
+Description: The project studies how individual's  perspective of a stock can rapidly affect the stock price.
 
+Data used: The data we used is from [kaggle](https://www.kaggle.com/datasets), it contains 33219 social media post from Jan28-Feb19, 2021.
 
+Programming language used: python.
 
+Team: One of my friends studying actuarial science and I
 
 
 Laguages
@@ -47,9 +52,5 @@ Laguages
 
 * Programming Laguages:
 
-**C**, **JAVA**, **javascript**, **HTML**, **X86Assambly**, **SQL**
+**python**, **C**, **JAVA**, **javascript**, **HTML**, **X86Assambly**, **SQL**
 
-More Resources
------------------------------------------
-
-Learn more about markdown [here](https://www.markdowntutorial.com).
