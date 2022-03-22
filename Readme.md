@@ -57,16 +57,22 @@ Publishing is very easy using Github Page, just commit your code then click comm
 
 ## Authors and Acknowledgments:
 
+Author: Hao Qin
+Author of Modern Technical Writing: Andrew Etter
 
 ---------------------------------------------
 
 
 ## FAQs:
-1. Why is Markdown better than a word processor?
+1. **Why is Markdown better than a word processor?**
+
+
 Markdown gets rid of complicated buttons of Microsoft word; more importantly, you do not even need a mouse when writing a Markdown file. All the modification of format is done by keyboard using simple instruction which is easy to learn in less than an hour. It saves a lot of time for the advanced writer who is familiar with Markdown files. 
 
 
-2. Why is my resume not showing up?
+2. **Why is my resume not showing up?**
+
+
 It might take a few minutes for your resume to show up due to internet latency. If it still does not show up, you might want to check if you put your resume in the right repositories named 'yourusername'.github.io and make sure the resume is in the main branch as default. The resume needs to be an HTML or markdown file
 
 
