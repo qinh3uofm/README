@@ -57,8 +57,8 @@ Publishing is very easy using Github Page, just commit your code then click comm
 
 ## Authors and Acknowledgments:
 
-Author: Hao Qin
-Author of Modern Technical Writing: Andrew Etter
+- Author: Hao Qin
+- Author of Modern Technical Writing: Andrew Etter
 
 ---------------------------------------------
 
