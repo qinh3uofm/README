@@ -52,5 +52,5 @@ Laguages
 
 * Programming Laguages:
 
-**python**, **C**, **JAVA**, **javascript**, **HTML**, **X86Assambly**, **SQL**
+knowledge of **python**, **C**, **JAVA**, **javascript**, **HTML**, **X86Assambly**, **SQL**
 
