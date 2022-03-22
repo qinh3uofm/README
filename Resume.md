@@ -33,13 +33,13 @@ Project Experience
 --------------------
 _**sentiment analysis on WBS community regarding GME stock**_
 
-Description: The project studies how an individual's perspective of stock can rapidly affect the stock price.
+Purpose: The project studies how an individual's perspective of stock can rapidly affect the stock price.
 
-Data used: The data we used is from [kaggle](https://www.kaggle.com/datasets), it contains 33219 social media post from Jan28-Feb19, 2021.
+Data used: The data we used is from [kaggle](https://www.kaggle.com/datasets), it contains 33219 reddit post from Jan28-Feb19, 2021.
 
 Programming language used: python.
 
-Team: One of my friends studying actuarial science and I
+Description: We analyze sentiment words in those posts to get a daily sentiment trend then compare this trend to the trend of the stove to see if there are any connections between them.
 
 
 Languages
