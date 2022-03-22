@@ -5,7 +5,7 @@
 
 - Describe the practical steps of how to host and format my resume using Markdown, Visual studio code, GitHub Pages, and Jekyll.  
 
-- Relate the practical steps described above to the general principles of current Technical Writing, as explained in Andrew Etter’s book Modern Technical Writing 
+- Relate the practical steps described above to the general principles of current Technical Writing, as explained in Andrew Etter's book Modern Technical Writing 
 
 ---------------------------------------------
 
@@ -46,7 +46,7 @@ Publishing is very easy using Github Page, just commit your code then click comm
 ### More Resource:
 1. Learn more about markdown [here](https://www.markdowntutorial.com).
 
-2. You can find Etter’s book Modern Technical Writing[here](https://github.com/qinh3uofm/qinh3uofm.github.io/blob/main/Andrew_Etter_-_Modern_Technical_Writing__An_Introduction_to_Software_Documentation_2016.epub).
+2. You can find Etter's book Modern Technical Writing[here](https://github.com/qinh3uofm/qinh3uofm.github.io/blob/main/Andrew_Etter_-_Modern_Technical_Writing__An_Introduction_to_Software_Documentation_2016.epub).
 
 3. I learned how to make gifs using screenshots on [this](https://ezgif.com/maker) website.
 
