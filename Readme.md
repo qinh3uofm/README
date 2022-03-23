@@ -94,9 +94,7 @@ Publishing is very easy using Github Page, just commit your code then click comm
 ## FAQs:
 1. **Why is Markdown better than a word processor?**
 
-
 Markdown gets rid of complicated buttons of Microsoft word; more importantly, you do not even need a mouse when writing a Markdown file. All the modification of format is done by keyboard using simple instruction which is easy to learn in less than an hour. It saves a lot of time for the advanced writer who is familiar with Markdown files. 
-
 
 2. **Why is my resume not showing up?**
 
