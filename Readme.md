@@ -46,6 +46,7 @@ Etter recommends using distributed version control systems (DVCS) like Git and M
 - Type yourusername.github.io in the search bar of your browser to see your readme file online.
 - Type yourusername.github.io/resume in the search bar of your browser to see your resume online.
 - To change the settings and layout of your websites, you can change the content of the _config.yml
+- It is better to create a new branch instead of changing the main branch when you are making changes, you can merge the new branch with the main after you finalize the change.
 - You are all set and your resume page is ready now!
 
 ---------------------------------------------
