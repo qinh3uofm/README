@@ -16,7 +16,7 @@
 - Markdown editor is highly recommanded, although you can edit markdown file on github, it is much easier to do it in applications like Visual Studio Code.
 
 Here is a demo:
-![demo](https://github.com/qinh3uofm/qinh3uofm.github.io/blob/main/ezgif.com-gif-maker.gif)
+![](https://github.com/qinh3uofm/qinh3uofm.github.io/blob/main/ezgif.com-gif-maker.gif)
 
 ---------------------------------------------
 
